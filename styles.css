@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    justify-content: center;
+}
+.container {
+    background-color: #eee;
+}
+.title {
+    font-family: fantasy;
+    color: cadetblue;
+    padding: 20px 20px 0px;
+    font-size: xxx-large;
+    margin-bottom: 0px;
+}
+.subtitle{
+    font-style: italic;
+    color: burlywood;
+    font-weight: 600;
+    letter-spacing: 5px;
+}
+.img-container {
+    background-color: white;
+    margin: 20px 20px 40px;
+}
+img {
+    width: 85%;
+    padding: 20px;
+}
+.img-subtitle {
+    padding: 0px 10px 20px 10px;
+    font-family: monospace;
+    color: cadetblue;
+}
+.timeline{
+    color: brown;
+    font-family: fantasy;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
